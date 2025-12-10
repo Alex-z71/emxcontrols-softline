@@ -31,3 +31,8 @@
 - Debian
 - Ubuntu
 - macOS
+
+### Системные требования
+
+- Платформа .NET 8.0+
+- Среды разработки с поддержкой Avalonia UI (Visual Studio 2022 and выше, JetBrains Rider 2021.3 и выше).
